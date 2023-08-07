@@ -8,7 +8,7 @@ const paginationContainer = document.getElementById('pagination');
 const playersPerPage = 10;
 let currentPage = 1;
  // Store fetched player data here//
-
+//
 // Fetch player data from the API
 async function fetchPlayers() {
     try {
