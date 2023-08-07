@@ -1,0 +1,16 @@
+a{
+    text-decoration: none;
+    text-align: center;
+    
+}
+#nav{
+    background-color: aquamarine;
+}
+
+button{
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    margin-left: 400px;
+    background-color: aquamarine;
+}
